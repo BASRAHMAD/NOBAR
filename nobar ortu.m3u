@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images4.imagebam.com/c1/f7/a9/ME10ZK2V_o.png" group-title="", Timnas Indonesia Feed 01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa2364a10a64b2cb9ab519104c99f97:4b2ac46cc17931bf7ef7172f64f71f4b
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/blFDSCV.jpeg" group-title="UEFA Champions League", Borussia Dortmund vs. Barcelona
+https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SM3YjN2EmNhNjNzEWL5UTMh1iM3YDNtYTOkJTL2cDMyczYmVzL.m3u8?md5=dh_8AJdHFoUZI48BJkVdyw&expires=1744784256
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oQ4HnkB.jpeg" group-title="UEFA Champions League", Aston Villa vs. PSG
+https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COxcTYlZjNmdTMiZTL3kDO50iMkNDNtkDMklTLyATZxMGO2IzL.m3u8?md5=NCiiP9xbDGCfulTPHIKx9Q&expires=1744783606
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/tKmKA6q.jpeg@jpeg" group-title="UEFA Champions League", UCL Multicast
+https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yMkFGNhRzMmNWNldTL1I2Mi1iZ3YGNtYWM4MTLjBTOhFWNzQzL.m3u8?md5=Sq0Y83UsddTZ1z66B26OcA&expires=1744783773
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN Sports 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27df7de969fbb319605be693e9aa65ed:4d38a401cc9e76fe8660f40362468c4e
+https://halu.serv00.net/satu.mpd?id=6299-bein-1&ck=eyIyN2RmN2RlOTY5ZmJiMzE5NjA1YmU2OTNlOWFhNjVlZCI6IjRkMzhhNDAxY2M5ZTc2ZmU4NjYwZjQwMzYyNDY4YzRlIn0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN Sports 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://halu.serv00.net/satu.mpd?id=17875-bein-2&ck=eyI2ZDgxODFiY2E5OTRlYWE1NzMyOWUwNGM5ODEyMjg2OCI6ImRhOWIzZTdhMTlhMTQzMGIxOTA0Nzc5MmZjNmFkZDY3In0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="beIN Sports",beIN Sports 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://halu.serv00.net/satu.mpd?id=6317-bein-3&ck=eyJiNWRmZWNiYjEwZmUwZDM2MzhlYTY5MmY5YzUwMWQ2OSI6ImEwYzI3NzUxYzAxNTU0ZjhkNzkyMzA0YzgyMzAzOTU1In0=
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/512px-DAZN_LaLiga_2023_Logo.svg.png?20230705100716" group-title="", DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-name="" tvg-logo="https://i.imgur.com/ctwmSHa.png" group-title="Champions TV",Champions TV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://halu.serv00.net/satu.mpd?id=6685&ck=eyI2OGQxMjBiNzgzYTA0MjBlNjNiMTdmNDRlZjJhMmFmMiI6ImZjZmFkNGNkOTQ1YTY2ZDQ4OTI5M2I3MmYxZWFlOGFjIn0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-name="" tvg-logo="https://i.imgur.com/oYUUKra.png" group-title="Champions TV",Champions TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
+https://halu.serv00.net/satu.mpd?id=6686-champions-tv-2&ck=eyJkODgxMGEwNmRmNmU1NDM3YWEzNzhiZTFhZWY2YTNkOSI6ImY5ZTBmODRiODg2Zjc0MDI3MzhjMmUyMDFhZjlmNGRiIn0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-name="" tvg-logo="https://i.imgur.com/xVwVIj6.png" group-title="Champions TV",Champions TV 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://halu.serv00.net/satu.mpd?id=6786&ck=eyIwMzY4NzcwYjFiMmEzYjNiOTM3N2M3NWUzMmFjZDIzZiI6IjJjZGFkYTUzZmEwMGI3YjY2NTE4MjYxZWQ1ODdiMmQ5In0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-name="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="Champions TV",Champions TV 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://halu.serv00.net/satu.mpd?id=9182&ck=eyI3M2EwMDY0NzcwZDgzMGMyMWU3YTU3ZmNkM2EyMDBhZCI6IjdkOGQ1NTc0NjlmOTY4YjEwYmFmYjQxOGQ3NTBmYWVkIn0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-name="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399654-.png" group-title="Champions TV",Champions TV 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+https://halu.serv00.net/satu.mpd?id=9183&ck=eyJmNWVkYmU0MDA2NjE3YzVhNTc2YTYxYjU5MjQzNzQ2OSI6ImI4YzQ3YWE0ZjBmZjk1OGFhYWM1ZTY1NTg0NWM3ODM0In0=
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/725/small/england-premier-league-logo-on-transparent-background-free-vector.jpg" group-title="Champions TV",Premier League TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://halu.serv00.net/satu.mpd?id=9353&ck=eyJlM2U4MWZmNDBiYzMxNzYxNzViNGJlMjRhMDliNDcwMSI6ImQ5ZWE0MzRlODlmMDdiM2I5OTk0MDcxMTA3OTVmN2NhIn0=
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="TNT Sports", TNT Sports 1 HD
+https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="TNT Sports", TNT Sports 1 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="400480" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="TNT Sports", TNT Sports 2 HD
+https://wowza5.leisertv.com/live/btsports2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="400480" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="TNT Sports", TNT Sports 2 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="400479" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="TNT Sports", TNT Sports 3 HD
+https://wowza5.leisertv.com/live/btsports3hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="400479" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="TNT Sports", TNT Sports 3 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="400478" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="TNT Sports", TNT Sports 4 HD
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iY1czNxQTMwEGZmRTLkRWOh1COkVDNtMzY5YTLxkzNlRWYlR2L.m3u8?md5=1MSxMeXX6kwRuVtxEoUauA&expires=1744322400&net=MjAwMTo0NDhhOjYwYzA6NGY4ZjpkOTU6OGJiYjoxZWE5OjlmYTY%3D
+
+#EXTINF:-1 tvg-id="400478" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="TNT Sports", TNT Sports 4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="6317" tvg-name="Russian Federation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sky Sports", Sky Sports F1 HD
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZhZmZ1UjZwEjMjlTLxMWY40SOzQDNtUWO2YTLxcDN1M2N4IzL.m3u8?md5=qsQlNVLx8IIDuTld7l2YKw&expires=1744421941
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thef1spectator.com/wp-content/uploads/2021/10/f1-tv-logo.jpg" group-title="F1", F1 TV HD
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNwQzMykjM1kzNhlTLlVGNh1yMyYDNtETZ1YWLhZzNkFDNkZ2L.m3u8?md5=OojaciozhWTQrrlhEfiTWQ&expires=1744422553
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="F1",beIN Sports 1 HD (F1 LIVE)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://halu.serv00.net/satu.mpd?id=17884&ck=eyI5Mjk2NGU3NGJlYmNlMDQxNjYwZmIxMjRiODk3NjY4MCI6ImI5MDg0NzA0NDI2NmFjOTYzZjk2NjU0MzM2MzcwMDkwIn0=
+
+---------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA", NBA Feed 01
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iY3cTNmFjZxkTNzETLjNDNh1iZwIDNtgjZ0YTLhJmYkF2M3YzL.m3u8?md5=1C275nuByGv3ww1_dyWYTg&expires=1744434900&net=MjAwMTo0NDhhOjYwYzA6NmU1YzpiY2ZmOjI1ODY6OWM3ZTo4NzA1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA", NBA Feed 02
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYihzMkJGNyUTOyUTL4YmMh1yN2QGNtMDZ0YTLyITNyEjYxczL.m3u8?md5=E7eECh17212K7tWmJXZ1PA&expires=1744433100&net=MjAwMTo0NDhhOjYwYzA6NmU1YzpiY2ZmOjI1ODY6OWM3ZTo4NzA1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="NBA", NBA Feed 03
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iN1QWNmNDNxQGZlRWL4YzYi1SMkJGNtMjN0ETLyEGMiJmYkJzL.m3u8?md5=1g5903UaQ8IDzBvP87xNYg&expires=1744429500&net=MjAwMTo0NDhhOjYwYzA6NmU1YzpiY2ZmOjI1ODY6OWM3ZTo4NzA1
+
+---------------------------------------------------------------------------------------------------------------------------------------
