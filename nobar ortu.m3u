@@ -7,16 +7,6 @@
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/blFDSCV.jpeg" group-title="UEFA Champions League", Borussia Dortmund vs. Barcelona
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SM3YjN2EmNhNjNzEWL5UTMh1iM3YDNtYTOkJTL2cDMyczYmVzL.m3u8?md5=dh_8AJdHFoUZI48BJkVdyw&expires=1744784256
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oQ4HnkB.jpeg" group-title="UEFA Champions League", Aston Villa vs. PSG
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09COxcTYlZjNmdTMiZTL3kDO50iMkNDNtkDMklTLyATZxMGO2IzL.m3u8?md5=NCiiP9xbDGCfulTPHIKx9Q&expires=1744783606
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/tKmKA6q.jpeg@jpeg" group-title="UEFA Champions League", UCL Multicast
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yMkFGNhRzMmNWNldTL1I2Mi1iZ3YGNtYWM4MTLjBTOhFWNzQzL.m3u8?md5=Sq0Y83UsddTZ1z66B26OcA&expires=1744783773
-
----------------------------------------------------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN Sports 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
