@@ -6,6 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key=27df7de969fbb319605be693e9aa65ed:4d38a401cc9e76fe8660f40362468c4e
 https://halu.serv00.net/satu.mpd?id=6299-bein-1&ck=eyIyN2RmN2RlOTY5ZmJiMzE5NjA1YmU2OTNlOWFhNjVlZCI6IjRkMzhhNDAxY2M5ZTc2ZmU4NjYwZjQwMzYyNDY4YzRlIn0=
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="beIN Sports",beIN Sports 1 Vision
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
+
 #EXTM3U
 #EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="beIN Sports",beIN Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
