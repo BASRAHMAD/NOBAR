@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png" group-title="COPPA ITALIA",DAZN 2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd
 
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"81aa629a4605bf9765fb93b1569c9bed":"8a4ad82f06643bd6de19859d21f6b1ca"}
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="COPPA ITALI",Premier Sport 2
