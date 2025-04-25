@@ -295,17 +295,19 @@ https://gasruktv.my.id/ewe/live.mpd?id=17775
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTM3U
 #EXTINF:-1 tvg-id="101.sudirman" tvg-name="Court 1" tvg-logo="https://i.imgur.com/QGNofEB.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 1
 https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
 
+
+#EXTM3U
 #EXTINF:-1 tvg-id="102.sudirman" tvg-name="Court 2" tvg-logo="https://i.imgur.com/sMiHJi0.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 2
 https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
 
+
+#EXTM3U
 #EXTINF:-1 tvg-id="103.sudirman" tvg-name="Court 3" tvg-logo="https://i.imgur.com/AnytPxM.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 3
 https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPIw7wPaKD-yTlF17V0Ixv_Iq1Pstgmh-T3TmDfJLTtlGSJb7O2Bm-G5b_hwCQ_tY8wWwE-ej3JZf0nTZYNk94CBodf96PNLBEB4Rhf0azCw94Xf0YNzfE0YhehxoutsJI_WU6if2AYtEElixkB1FRSrpGaBQBYoXXac1lbjH9-LMDzeB7De16hV_qFjo/w1200-h630-p-k-no-nu/TVRI_Sport_2022.svg.png" group-title="COPPA ITALIA",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
