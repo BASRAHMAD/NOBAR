@@ -305,38 +305,17 @@ https://gasruktv.my.id/ewe/live.mpd?id=17775
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 FHD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="TIMNAS INDONESIA",MNCTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="TIMNAS INDONESIA",MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png" group-title="TIMNAS INDONESIA",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-
-#EXTINF:-1 tvg-id="RCTI.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="TIMNAS INDONESIA",RCTI+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AX512 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-
-#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png", Astro Arena 2 (Vpn My/SG)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; RMX3393 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={"fe4e1cd2eea9e7ac5b365c261e41c57c":"38dd1a0751aa0f04f2035636cf0608eb"}
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png" group-title="COPPA ITALIA",DAZN 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"81aa629a4605bf9765fb93b1569c9bed":"8a4ad82f06643bd6de19859d21f6b1ca"}
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="COPPA ITALI",Premier Sport 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/4ohdtliaqd/out/v1/ff49de73ee8046ae968ee8aadd7867c1/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPIw7wPaKD-yTlF17V0Ixv_Iq1Pstgmh-T3TmDfJLTtlGSJb7O2Bm-G5b_hwCQ_tY8wWwE-ej3JZf0nTZYNk94CBodf96PNLBEB4Rhf0azCw94Xf0YNzfE0YhehxoutsJI_WU6if2AYtEElixkB1FRSrpGaBQBYoXXac1lbjH9-LMDzeB7De16hV_qFjo/w1200-h630-p-k-no-nu/TVRI_Sport_2022.svg.png" group-title="COPPA ITALIA",TVRI SPORT
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
