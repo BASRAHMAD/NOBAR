@@ -1,18 +1,9 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fe4e1cd2eea9e7ac5b365c261e41c57c":"38dd1a0751aa0f04f2035636cf0608eb"}
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/risd0q1657045733.png" group-title="COPPA ITALIA",DAZN 2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/04/02/08a3ee8d-3cfb-4e6f-8f9d-743254322665/web-COPA_REY-FINAL.jpg?width=1200&height=750" group-title="Copa del Rey - Final", Barcelona vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"81aa629a4605bf9765fb93b1569c9bed":"8a4ad82f06643bd6de19859d21f6b1ca"}
-#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="COPPA ITALI",Premier Sport 2
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/4ohdtliaqd/out/v1/ff49de73ee8046ae968ee8aadd7867c1/cenc.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPIw7wPaKD-yTlF17V0Ixv_Iq1Pstgmh-T3TmDfJLTtlGSJb7O2Bm-G5b_hwCQ_tY8wWwE-ej3JZf0nTZYNk94CBodf96PNLBEB4Rhf0azCw94Xf0YNzfE0YhehxoutsJI_WU6if2AYtEElixkB1FRSrpGaBQBYoXXac1lbjH9-LMDzeB7De16hV_qFjo/w1200-h630-p-k-no-nu/TVRI_Sport_2022.svg.png" group-title="COPPA ITALIA",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
 -----------------------------------------------------------------------------------------------
 
