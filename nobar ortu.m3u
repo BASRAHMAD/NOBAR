@@ -5,8 +5,8 @@
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U
-#EXTINF:-1 tvg-id="300425" tvg-name="UCL1" tvg-logo="https://sportshub.cbsistatic.com/i/2025/04/25/e6fdc672-a58f-451a-bb53-d1f6677b0736/image-1745547188966.png" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 2
-https://dve-streams.akamaized.net/ns-005/MjAyNQ/NA/M_jk/72723a8a-1f8c-47ad-915a-014ad320cb39/video/f86f8f8e-6bfe-4eac-8763-8cf6708d752b/index.m3u8?hdntl=exp=1746026728~acl=%2f*~id=94c346fc-f6bd-42e2-b2ed-34e776012d95~data=hdntl,aXA9MjAwMTo0NDhhOjYwYzA6NDE1NTo4ZDE4OjFkZjc6MTgyYzo1YjQ4JmV4cD0xNzQ1OTQwMzU3JmVpZD03OTMxMzkmb2lkPTI4JnR5cGU9Vk9EJnVpZD1DOXpNaEZ8NGY5MmUzZTUtYjcyNS00NTljLTg2NjEtN2VlZTYxZDUzMDJmJmNpZD1kY2UudWVmYXR2JnB0PW51bGw~hmac=8398f473a1a73316ca753c4d45100b0a2e3ada5534a46b867652d7f3a5174df1
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 2
+ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 #EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://www.visionplus.id/images/repository/358/374358-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 1
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
