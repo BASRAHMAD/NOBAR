@@ -12,8 +12,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://sportshub.cbsistatic.com/i/2025/04/25/4081f2e5-06cd-42ce-9fb8-025c55b0a76f/image-1745547366359.png" group-title="UEFA Champions League", FC Barcelona vs. Inter Milan
-https://dve-streams.akamaized.net/ns-004/MjAyNQ/NA/M_jk/754ea711-2f19-4c14-ab3d-f9fd9a035296/video/94367ed1-af7c-414e-893a-4f87c2c0e3d0/index.m3u8?hdntl=exp=1746026685~acl=%2f*~id=f561d2c2-d68e-4014-9546-9de5d90fedd9~data=hdntl,aXA9MjAwMTo0NDhhOjYwYzA6NDE1NTo4ZDE4OjFkZjc6MTgyYzo1YjQ4JmV4cD0xNzQ1OTQwMzE1JmVpZD03OTMxNDAmb2lkPTI4JnR5cGU9Vk9EJnVpZD1DOXpNaEZ8NGY5MmUzZTUtYjcyNS00NTljLTg2NjEtN2VlZTYxZDUzMDJmJmNpZD1kY2UudWVmYXR2JnB0PW51bGw~hmac=37e7cf7f4c6520ee216a72cd798068537848d2ec34a5e6beea30da178f63354c
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d"}
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/355/374355-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League",FC Barcelona vs. Inter Milan
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
 -----------------------------------------------------------------------------------------------
 
