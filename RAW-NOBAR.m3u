@@ -958,3 +958,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wdxmrxkd70/
 #KODIPROP:inputstream.adaptive.license_key={"81aa629a4605bf9765fb93b1569c9bed":"8a4ad82f06643bd6de19859d21f6b1ca"}
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" group-title="COPPA ITALIA",Premier Sport 2
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/4ohdtliaqd/out/v1/ff49de73ee8046ae968ee8aadd7867c1/cenc.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/04/02/08a3ee8d-3cfb-4e6f-8f9d-743254322665/web-COPA_REY-FINAL.jpg?width=1200&height=750" group-title="Copa del Rey - Final", Barcelona vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+
