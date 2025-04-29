@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/358/374358-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/355/374355-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 2
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://www.visionplus.id/images/repository/355/374355-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", FC Barcelona vs. Inter Milan 2
  https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://www.visionplus.id/images/repository/358/374358-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", Arsenal F.C. vs. Paris Saint-Germain F.C. 1
+#EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://www.visionplus.id/images/repository/358/374358-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", FC Barcelona vs. Inter Milan 1
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
 #EXTM3U
