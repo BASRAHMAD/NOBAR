@@ -319,18 +319,25 @@ https://gasruktv.my.id/ewe/live.mpd?id=17775
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 tvg-id="101.sudirman" tvg-name="Court 1" tvg-logo="https://i.imgur.com/QGNofEB.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 1
-https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="102.sudirman" tvg-name="Court 2" tvg-logo="https://i.imgur.com/sMiHJi0.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 2
-https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
+https://halu.serv00.net/satu.mpd?id=18249
 
 #EXTM3U
-#EXTINF:-1 tvg-id="103.sudirman" tvg-name="Court 3" tvg-logo="https://i.imgur.com/AnytPxM.png" group-title="TotalEnergies BWF Sudirman Cup Finals 2025 - Xiamen Olympic Sports Center", Court 3
-https://api.vidio.com/videos/8681799/common_tokenized_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWxsdXNlcnMiLCJ2aWRlb19pZCI6Ijg2ODE3OTkiLCJjcmVhdGVkX2F0IjoxNzQ1NTkwNjA3LCJleHRfZHVyYXRpb24iOjYwMH0.t4_WA-2oaNAI1ZQ-4nmBHX-ixKqZfpqAM-9ypEMM218
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
+https://halu.serv00.net/satu.mpd?id=18250
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://halu.serv00.net/satu.mpd?id=18252
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
