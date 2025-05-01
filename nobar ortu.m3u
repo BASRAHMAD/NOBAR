@@ -1,15 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://thumbor.prod.vidiocdn.com/znyAjDGESXYQxGnp3dbHPY4VQV0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30411/athletic-club-vs-man-united-539235.jpg", ATHLETIC CLUB vs MAN UNITED 2
+#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://thumbor.prod.vidiocdn.com/znyAjDGESXYQxGnp3dbHPY4VQV0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30411/athletic-club-vs-man-united-539235.jpg", group-title="UEFA Champions League",ATHLETIC CLUB vs MAN UNITED 2
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://www.visionplus.id/images/repository/670/374670-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", ATHLETIC CLUB vs MAN UNITED
  https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d"}
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/670/374670-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League",ATHLETIC CLUB vs MAN UNITED 3
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"0fefd5d94a8cb5b40c057ab182f7dc27":"5548c4823ff7f1ea61bafb7cbc19e005"}
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/znyAjDGESXYQxGnp3dbHPY4VQV0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30411/athletic-club-vs-man-united-539235.jpg" group-title="UEFA Champions League",ATHLETIC CLUB vs MAN UNITED 3
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 -----------------------------------------------------------------------------------------------
 
