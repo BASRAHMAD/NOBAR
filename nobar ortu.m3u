@@ -1,4 +1,11 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://recreanice.fr/sites/default/files/2025/imce/visuel.jpg" group-logo="" tvg-id="SPOTV.id" tvg-name="MONACO E-PRIX 2025", MONACO E-PRIX 2025
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTM3U
 #EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1",beIN Sports 2 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
