@@ -1,14 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://thumbor.prod.vidiocdn.com/znyAjDGESXYQxGnp3dbHPY4VQV0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30411/athletic-club-vs-man-united-539235.jpg", group-title="UEFA Champions League",ATHLETIC CLUB vs MAN UNITED 2
-https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://www.visionplus.id/images/repository/670/374670-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Champions League", ATHLETIC CLUB vs MAN UNITED
- https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
+#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1",beIN Sports 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0fefd5d94a8cb5b40c057ab182f7dc27":"5548c4823ff7f1ea61bafb7cbc19e005"}
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/znyAjDGESXYQxGnp3dbHPY4VQV0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30411/athletic-club-vs-man-united-539235.jpg" group-title="UEFA Champions League",ATHLETIC CLUB vs MAN UNITED 3
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://halu.serv00.net/satu.mpd?id=17875-bein-2&ck=eyI2ZDgxODFiY2E5OTRlYWE1NzMyOWUwNGM5ODEyMjg2OCI6ImRhOWIzZTdhMTlhMTQzMGIxOTA0Nzc5MmZjNmFkZDY3In0=
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1", F1 TV HD
+https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNwQzMykjM1kzNhlTLlVGNh1yMyYDNtETZ1YWLhZzNkFDNkZ2L.m3u8?md5=OojaciozhWTQrrlhEfiTWQ&expires=1744422553
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1",beIN Sports 1 HD (F1 LIVE)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://halu.serv00.net/satu.mpd?id=17884&ck=eyI5Mjk2NGU3NGJlYmNlMDQxNjYwZmIxMjRiODk3NjY4MCI6ImI5MDg0NzA0NDI2NmFjOTYzZjk2NjU0MzM2MzcwMDkwIn0=
 
 -----------------------------------------------------------------------------------------------
 
