@@ -280,6 +280,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="BRI LIGA 1",Sportstar 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zAYaGgBcQQPcXBA3d8_3jKTkYX0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-d547af.png" group-title="BRI LIGA 1",BACKUP BRI LIGA1
+https://edg00.smytdryt.live/716123532_channel2/playlist.m3u8?match_id=12630080&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1746439142&key=VTJGc2RHVmtYMStPTnBsZTNaRmFaY1ZQUkthNHhvdEpvM3c0amdXREN5clQwN3M3MERaRkNMdnhDRTUxSmg2b3dQek93NFlCUGM2SjVQYnl3TnRpaXo5MzZBMGJHOUJKMEJ1N0VQdEJUeng1S2tSQ2lnTkVZMVJWNitGaHNFMWl1RTRQWU5sRUpkN24zbU9XTS8zR083dEk1aStjMHdmMlNEOERBdTY2UXNUUlM5MlRYVHhDelkwSGNRWnd4MXlP
+
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/zAYaGgBcQQPcXBA3d8_3jKTkYX0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-d547af.png",CHANNEL 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
