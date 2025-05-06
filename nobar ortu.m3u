@@ -2,8 +2,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/884502c8-13cd-4231-abcc-99290812a89f/image-1746080624292.png" group-title="UEFA Champions League", Inter Milan vs. FC Barcelona 
-https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a23c541ad1334ea697bab962336d31e6":"996515f9b655011b20993c5514298eb3"}
+#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/884502c8-13cd-4231-abcc-99290812a89f/image-1746080624292.png" group-title="UEFA Champions League",Inter Milan vs. FC Barcelona (BEL)
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/884502c8-13cd-4231-abcc-99290812a89f/image-1746080624292.png" group-title="UEFA Champions League", Inter Milan vs. FC Barcelona (PC Only)
