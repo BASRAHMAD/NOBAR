@@ -1,35 +1,19 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://recreanice.fr/sites/default/files/2025/imce/visuel.jpg" group-logo="" tvg-id="SPOTV.id" tvg-name="MONACO E-PRIX 2025", MONACO E-PRIX 2025
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="411918" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1",beIN Sports 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
-https://halu.serv00.net/satu.mpd?id=17875-bein-2&ck=eyI2ZDgxODFiY2E5OTRlYWE1NzMyOWUwNGM5ODEyMjg2OCI6ImRhOWIzZTdhMTlhMTQzMGIxOTA0Nzc5MmZjNmFkZDY3In0=
+#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/884502c8-13cd-4231-abcc-99290812a89f/image-1746080624292.png" group-title="UEFA Champions League", Inter Milan vs. FC Barcelona 
+https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1", F1 TV HD
-https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNwQzMykjM1kzNhlTLlVGNh1yMyYDNtETZ1YWLhZzNkFDNkZ2L.m3u8?md5=OojaciozhWTQrrlhEfiTWQ&expires=1744422553
-
-#EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1", Sky Sports F1 HD (Alt)
+#EXTINF:-1 tvg-id="010525" tvg-name="UCL2" tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/884502c8-13cd-4231-abcc-99290812a89f/image-1746080624292.png" group-title="UEFA Champions League", Inter Milan vs. FC Barcelona (PC Only)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
+https://x4new.newkso.ru/x4/ustvcbs/mono.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/753/374753-BANNER_COMPANION_SLIDER-l.jpg" group-title="F1",beIN Sports 1 HD (F1 LIVE)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
-https://halu.serv00.net/satu.mpd?id=17884&ck=eyI5Mjk2NGU3NGJlYmNlMDQxNjYwZmIxMjRiODk3NjY4MCI6ImI5MDg0NzA0NDI2NmFjOTYzZjk2NjU0MzM2MzcwMDkwIn0=
-
+#EXTINF:-1 tvg-id="300425" tvg-name="UCL1" tvg-logo="https://sportshub.cbsistatic.com/i/2025/05/01/99952762-b817-467e-9555-c1103a2897ec/image-1746081219621.png" group-title="UEFA Champions League", Paris Saint-Germain F.C. vs. Arsenal F.C. 
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 -----------------------------------------------------------------------------------------------
 
 #EXTM3U
