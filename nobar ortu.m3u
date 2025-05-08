@@ -16,9 +16,9 @@ https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_str
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a23c541ad1334ea697bab962336d31e6":"996515f9b655011b20993c5514298eb3"}
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (BEL)
-https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
+#EXTINF:-1 tvg-id="espn vivo" tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (ESPN)
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
 
 #EXTM3U
 #EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://thumbor.prod.vidiocdn.com/QPOakJQBgddNXHPM9soRkUlBw10=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30531/man-united-vs-athletic-club-7eb0b9.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (tnt1)
