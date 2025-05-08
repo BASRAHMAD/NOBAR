@@ -11,8 +11,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"27df7de969fbb319605be693e9aa65ed":"4d38a401cc9e76fe8660f40362468c4e"}
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (BEIN VIDIO)
-https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdntl=exp=1746725181~acl=%2fdrm%2fdash%2f6299*~id=26693461~data=hdntl~hmac=1145271bc48887d79ceecee7107a2e90e2c6bd63d336151b7566c9353fbce2d1
+#EXTINF:-1 tvg-id="espn vivo" tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (VIDIO)
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdntl=exp=1746746767~acl=%2fdrm%2fdash%2f6299*~id=26693461~data=hdntl~hmac=2ce4eb68f4df8835c9529e84ea76228f62fcc76a2648e4207c1b212e32c971e2
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
