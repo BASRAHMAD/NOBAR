@@ -1006,3 +1006,9 @@ https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (BEL)
 https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
 
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QPOakJQBgddNXHPM9soRkUlBw10=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30531/man-united-vs-athletic-club-7eb0b9.jpg" group-title="UEFA Europa League",Bilbao VS MU (Arena Sport 1)
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+
