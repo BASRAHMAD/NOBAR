@@ -1,34 +1,35 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League", Athletic Bilbao vs Manchester United (BEIN)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico Vision 󠁧󠁢🏴󠁧󠁢󠁥󠁮󠁧󠁿
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico Vidio 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"27df7de969fbb319605be693e9aa65ed":"4d38a401cc9e76fe8660f40362468c4e"}
-#EXTINF:-1 tvg-id="espn vivo" tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (VIDIO)
-https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdntl=exp=1746746767~acl=%2fdrm%2fdash%2f6299*~id=26693461~data=hdntl~hmac=2ce4eb68f4df8835c9529e84ea76228f62fcc76a2648e4207c1b212e32c971e2
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://halu.serv00.net/satu.mpd?id=6317-bein-3&ck=eyJiNWRmZWNiYjEwZmUwZDM2MzhlYTY5MmY5YzUwMWQ2OSI6ImEwYzI3NzUxYzAxNTU0ZjhkNzkyMzA0YzgyMzAzOTU1In0=
 
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
-#EXTINF:-1 tvg-id="espn vivo" tvg-logo="https://www.visionplus.id/images/repository/769/380769-BANNER_COMPANION_SLIDER-l.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (ESPN)
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico espn 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="400477" tvg-name="United Kingdom of Great Britain and Northern Ireland" tvg-logo="https://thumbor.prod.vidiocdn.com/QPOakJQBgddNXHPM9soRkUlBw10=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30531/man-united-vs-athletic-club-7eb0b9.jpg" group-title="UEFA Europa League",Athletic Bilbao vs Manchester United (tnt1)
-https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico DAZN2 🇩🇪
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QPOakJQBgddNXHPM9soRkUlBw10=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30531/man-united-vs-athletic-club-7eb0b9.jpg" group-title="UEFA Europa League",Bilbao VS MU (Arena Sport 1)
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico PrimaSport1 🇭🇷
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+
 -----------------------------------------------------------------------------------------------
 
 #EXTM3U
