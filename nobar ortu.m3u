@@ -2,13 +2,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico Vision 󠁧󠁢🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",ElClasico Vision 󠁧󠁢🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
 
 #EXTM3U
-#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico Vidio 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+#EXTINF:-1 tvg-id="411914" tvg-name="beIN Sports 3 HD" tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",ElClasico Vidio 🇺🇸
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -17,18 +17,37 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://halu.serv00.net/satu.mpd?id=6317-bein-3&ck=eyJiNWRmZWNiYjEwZmUwZDM2MzhlYTY5MmY5YzUwMWQ2OSI6ImEwYzI3NzUxYzAxNTU0ZjhkNzkyMzA0YzgyMzAzOTU1In0=
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico espn 🇪🇸
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",ElClasico espn 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd
 https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico DAZN2 🇩🇪
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",ElClasico DAZN2 🇩🇪
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",ElClasico PrimaSport1 🇭🇷
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",ElClasico PrimaSport1 🇭🇷
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+
+-----------------------------------------------------------------------------------------------
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-name="" tvg-logo="https://pbs.twimg.com/media/GqpRa7LXUAI9c2h?format=jpg&name=medium" group-title="EPL",Liverpool vs Arsenal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://halu.serv00.net/satu.mpd?id=9182&ck=eyI3M2EwMDY0NzcwZDgzMGMyMWU3YTU3ZmNkM2EyMDBhZCI6IjdkOGQ1NTc0NjlmOTY4YjEwYmFmYjQxOGQ3NTBmYWVkIn0=
+
+#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League HD" tvg-logo="https://pbs.twimg.com/media/GqpRa7LXUAI9c2h?format=jpg&name=medium" group-title="EPL",Liverpool vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+
+
+
+
 
 -----------------------------------------------------------------------------------------------
 
