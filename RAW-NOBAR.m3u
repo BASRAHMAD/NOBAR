@@ -1012,3 +1012,13 @@ https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df38
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QPOakJQBgddNXHPM9soRkUlBw10=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30531/man-united-vs-athletic-club-7eb0b9.jpg" group-title="UEFA Europa League",Bilbao VS MU (Arena Sport 1)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"473177ea3d394060a0d0c266521ffd68":"cb6366270ecf03b7b80aae491ef9d618"}
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a1ZdaTWhJw3m4LR1x8_h-cG0zIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4273325/f935e5.jpg" group-title="#ElClasico",TSN3
+https://live-cito.9c9media.ca/0327565ea922ea2b67e74415fad16c7480c3fe4c1738223326649/f/tsn3/manifest.mpd
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gqqas9HXsAAK2fI?format=jpg&name=large" group-title="#ElClasico",DAZN2 🇩🇪
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+
