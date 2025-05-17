@@ -11,27 +11,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?h
 https://edg00.smytdryt.live/716123532_channel2/playlist.m3u8?match_id=12630080&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1746439142&key=VTJGc2RHVmtYMStPTnBsZTNaRmFaY1ZQUkthNHhvdEpvM3c0amdXREN5clQwN3M3MERaRkNMdnhDRTUxSmg2b3dQek93NFlCUGM2SjVQYnl3TnRpaXo5MzZBMGJHOUJKMEJ1N0VQdEJUeng1S2tSQ2lnTkVZMVJWNitGaHNFMWl1RTRQWU5sRUpkN24zbU9XTS8zR083dEk1aStjMHdmMlNEOERBdTY2UXNUUlM5MlRYVHhDelkwSGNRWnd4MXlP
 
 -----------------------------------------------------------------------------------------------
-
 #EXTM3U
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-name="" tvg-logo="https://pbs.twimg.com/media/GqpRa7LXUAI9c2h?format=jpg&name=medium" group-title="EPL",Liverpool vs Arsenal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://halu.serv00.net/satu.mpd?id=9182&ck=eyI3M2EwMDY0NzcwZDgzMGMyMWU3YTU3ZmNkM2EyMDBhZCI6IjdkOGQ1NTc0NjlmOTY4YjEwYmFmYjQxOGQ3NTBmYWVkIn0=
-
-#EXTM3U
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-name="" tvg-logo="https://pbs.twimg.com/media/GqpRa7LXUAI9c2h?format=jpg&name=medium" group-title="EPL",Liverpool vs Arsenal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-id="6958" tvg-name="Sky Sports Premier League HD" tvg-logo="https://pbs.twimg.com/media/GqpRa7LXUAI9c2h?format=jpg&name=medium" group-title="EPL",Liverpool vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd
-https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
-
+#KODIPROP:inputstream.adaptive.license_key={"344d320ca45641a88cf002db351ed9a4":"246cc6ee7ab235cb824ed3b904b7040b"}
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrIj11jWcAAcFlx?format=jpg&name=medium" group-title="FA CUP",Crystal Palace vs Man City BEIN
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
