@@ -1,25 +1,19 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9caf76de62c36d6c8889b24635893951":"981eaa8b8d1b4e03ca3b531533907e15"}
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uwVfaKP7E6xIwkQj-mrRqdTm_NQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4288965/5f0b96.jpg" group-title="BRI Liga 1",PSS Sleman vs Persija
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1747496470~acl=%2fdrm%2fdash%2f17623*~id=26693461~data=hdntl~hmac=28730423f71f91abee3041b17054884de92f8565f9e92bed0cdd906a36245508
+#EXTINF:-1 tvg-id="6317" tvg-name="Russian Federation" tvg-logo="https://www.visionplus.id/images/repository/013/388013-BANNER_COMPANION_SLIDER-l.jpg" group-title="IMOLA GP",SKY SPORT F1
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZhZmZ1UjZwEjMjlTLxMWY40SOzQDNtUWO2YTLxcDN1M2N4IzL.m3u8?md5=oDoWwHgagW0jjrx8oonwRw
 
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zAYaGgBcQQPcXBA3d8_3jKTkYX0=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-d547af.png" group-title="BRI LIGA 1",BACKUP BRI LIGA1
-https://edg00.smytdryt.live/716123532_channel2/playlist.m3u8?match_id=12630080&s_id=1&t_id=1485&stats=statssport.inplaynet.tech&timestamp=1746439142&key=VTJGc2RHVmtYMStPTnBsZTNaRmFaY1ZQUkthNHhvdEpvM3c0amdXREN5clQwN3M3MERaRkNMdnhDRTUxSmg2b3dQek93NFlCUGM2SjVQYnl3TnRpaXo5MzZBMGJHOUJKMEJ1N0VQdEJUeng1S2tSQ2lnTkVZMVJWNitGaHNFMWl1RTRQWU5sRUpkN24zbU9XTS8zR083dEk1aStjMHdmMlNEOERBdTY2UXNUUlM5MlRYVHhDelkwSGNRWnd4MXlP
-
------------------------------------------------------------------------------------------------
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/013/388013-BANNER_COMPANION_SLIDER-l.jpg" group-title="IMOLA GP",beIN Sports 1 Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"344d320ca45641a88cf002db351ed9a4":"246cc6ee7ab235cb824ed3b904b7040b"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrIj11jWcAAcFlx?format=jpg&name=medium" group-title="FA CUP",Crystal Palace vs Man City BEIN3
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
- #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo=""https://pbs.twimg.com/media/GrIj11jWcAAcFlx?format=jpg&name=medium" group-title="FA CUP",Crystal Palace vs Man City Sony ten3
- https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1061be12d303247426ec25e8369b2647":"bd622b0e610295de3b0bccb850ccaaaa"}
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/013/388013-BANNER_COMPANION_SLIDER-l.jpg" group-title="IMOLA GP",DAZN F1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 -----------------------------------------------------------------------------------------------
 
@@ -217,7 +211,7 @@ https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="6317" tvg-name="Russian Federation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sky Sports", Sky Sports F1 HD
-https://director.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZhZmZ1UjZwEjMjlTLxMWY40SOzQDNtUWO2YTLxcDN1M2N4IzL.m3u8?md5=qsQlNVLx8IIDuTld7l2YKw&expires=1744421941
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZhZmZ1UjZwEjMjlTLxMWY40SOzQDNtUWO2YTLxcDN1M2N4IzL.m3u8?md5=oDoWwHgagW0jjrx8oonwRw
 
 #EXTINF:-1 tvg-id="6317" tvg-name="Sky Sports F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sky Sports", Sky Sports F1 HD (Alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
