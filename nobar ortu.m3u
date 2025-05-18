@@ -16,10 +16,17 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 -----------------------------------------------------------------------------------------------
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"73a0064770d830c21e7a57fcd3a200ad":"7d8d557469f968b10bafb418d750faed"}
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gq_7nmLXQAA2Ytl?format=jpg&name=medium" group-title="EPL",Arsenal vs Newcastle 1
 https://halu.serv00.net/satu.mpd?id=9182&ck=eyI3M2EwMDY0NzcwZDgzMGMyMWU3YTU3ZmNkM2EyMDBhZCI6IjdkOGQ1NTc0NjlmOTY4YjEwYmFmYjQxOGQ3NTBmYWVkIn0=
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"78ab64fa90f137a697743b5dc27b2f96":"de4d31c7fc6005ede28abab2a0720a9f"}
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gq_7nmLXQAA2Ytl?format=jpg&name=medium" group-title="EPL",Arsenal vs Newcastle 1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 
 
