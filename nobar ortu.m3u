@@ -11,11 +11,11 @@ https://halu.serv00.net/satu.mpd?id=6299-bein-1&ck=eyIyN2RmN2RlOTY5ZmJiMzE5NjA1Y
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3ae6a430c1b8420ea280e317143d8d3a":"142473ee925db0db0083c74a178c8298"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (vision)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (TNT1)
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8
 -----------------------------------------------------------------------------------------------
 #EXTM3U
