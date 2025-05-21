@@ -4,20 +4,19 @@
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"73a0064770d830c21e7a57fcd3a200ad":"7d8d557469f968b10bafb418d750faed"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gq_7nmLXQAA2Ytl?format=jpg&name=medium" group-title="EPL",Arsenal vs Newcastle 1
-https://halu.serv00.net/satu.mpd?id=9182&ck=eyI3M2EwMDY0NzcwZDgzMGMyMWU3YTU3ZmNkM2EyMDBhZCI6IjdkOGQ1NTc0NjlmOTY4YjEwYmFmYjQxOGQ3NTBmYWVkIn0=
+#KODIPROP:inputstream.adaptive.license_key={"27df7de969fbb319605be693e9aa65ed":"4d38a401cc9e76fe8660f40362468c4e"}
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
+https://halu.serv00.net/satu.mpd?id=6299-bein-1&ck=eyIyN2RmN2RlOTY5ZmJiMzE5NjA1YmU2OTNlOWFhNjVlZCI6IjRkMzhhNDAxY2M5ZTc2ZmU4NjYwZjQwMzYyNDY4YzRlIn0=
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"78ab64fa90f137a697743b5dc27b2f96":"de4d31c7fc6005ede28abab2a0720a9f"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gq_7nmLXQAA2Ytl?format=jpg&name=medium" group-title="EPL",Arsenal vs Newcastle 2
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key={"3ae6a430c1b8420ea280e317143d8d3a":"142473ee925db0db0083c74a178c8298"}
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gq_7nmLXQAA2Ytl?format=jpg&name=medium" group-title="EPL",Arsenal vs Newcastle 3
-https://live.bbapcall.com/live/hd-en-1-4140072.m3u8?txSecret=cbb15b733d91b47e8ec9c62e102437d4&txTime=682A45F7
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8
 -----------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 Vidio" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN Sports 1 Vidio
