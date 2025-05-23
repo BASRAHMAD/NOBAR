@@ -4,19 +4,9 @@
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"27df7de969fbb319605be693e9aa65ed":"4d38a401cc9e76fe8660f40362468c4e"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (VIDIO)
-https://halu.serv00.net/satu.mpd?id=6299-bein-1&ck=eyIyN2RmN2RlOTY5ZmJiMzE5NjA1YmU2OTNlOWFhNjVlZCI6IjRkMzhhNDAxY2M5ZTc2ZmU4NjYwZjQwMzYyNDY4YzRlIn0=
-
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3ae6a430c1b8420ea280e317143d8d3a":"142473ee925db0db0083c74a178c8298"}
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (vision)
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GrdDLSvW4AAeLdD?format=jpg&name=900x900" group-title="UEL FINAL",Tottenham vs Man Utd (TNT1)
-https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/tracks-v1a1/mono.ts.m3u8
+#KODIPROP:inputstream.adaptive.license_key={"6d9395d8336215b2bf0b8bf78aebdc59":"557c957c254a73be9a46da50ca2e198c"}
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i6ldC3AerYYoMJ5kdLoxBKVrcNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4303029/c74b93.jpg" group-title="BRI LIGA 1",PSM Makassar vs Persita
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17775_stream.mpd?hdnts=exp=1748015958~acl=/drm/dash/17775*~id=26693461~hmac=914739f692b049354e2394a268ea6851915f43fe4a774a5b9247b615ed21128c
 -----------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 Vidio" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="beIN Sports",beIN Sports 1 Vidio
