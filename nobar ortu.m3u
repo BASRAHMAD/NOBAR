@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/EPGALL.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/SVLeagueEPG.xml,https://epg.pw/api/epg.xml?channel_id=411950,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epg.pw/api/epg.xml?channel_id=406566,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=6958,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/nba_2025_playoffs_epg_fixed.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_f1_2025.xml,https://raw.githubusercontent.com/13x11/13x1-TV/refs/heads/main/epg_proliga_jatidiri_full_format.xml,https://epg.pw/api/epg.xml?channel_id=400477,https://epg.pw/api/epg.xml?channel_id=400480,https://epg.pw/api/epg.xml?channel_id=400479,https://epg.pw/api/epg.xml?channel_id=400478,https://epg.pw/api/epg.xml?channel_id=411918,https://epg.pw/api/epg.xml?channel_id=411956,https://epg.pw/api/epg.xml?channel_id=411914,https://epg.pw/api/epg.xml?channel_id=6317,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.pw/api/epg.xml?channel_id=406588" refresh="1440" max-conn="1" refresh="24"
 
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/event-guide/munich-2025.png" group-title="UEFA Champions League 2025 Final",PSG vs. Inter (polos)
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistBU_1_.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/event-guide/munich-2025.png" group-title="UEFA Champions League 2025 Final",PSG vs. Inter (polos2)
+https://feijing-xzbonlinepull.bszb.me/live/202_3681530_2.m3u8?txSecret=97a39a40e6b31b5da8d35fd6e3a7acc0&txTime=683b8af9
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.uefa.com/imgml/uefacom/event-guide/munich-2025.png" group-title="UEFA Champions League 2025 Final",PSG vs. Inter (tnt)
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8?auth_key=1748100143-71e509d6b75b47089b047f99fb0a2dd5-00000000000000000000000000000000-bac45aaeea8af6ad4bd50879f61e4bc7
